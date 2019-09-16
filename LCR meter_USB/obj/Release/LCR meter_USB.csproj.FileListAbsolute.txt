@@ -1,0 +1,31 @@
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Release\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Release\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Release\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Release\ZedGraph.dll
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Release\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Release\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Release\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Release\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Release\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Release\ZedGraph.dll
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.exe.config
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.exe
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Release\LCR meter_USB.pdb
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Release\ZedGraph.dll
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csprojAssemblyReference.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR_meter_USB.Properties.Resources.resources
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csproj.GenerateResource.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.csproj.CopyComplete
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.exe
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Release\LCR meter_USB.pdb

@@ -1,0 +1,84 @@
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Form1.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Form1.resources
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR meter program\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\bin\Debug\ZedGraph.dll
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Form1.resources
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+G:\Wonhyeong\내논문\성균관대학교 Co-work\LCR_Measurement\LCR meter_USB\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\bin\Debug\ZedGraph.dll
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_USB_원형이형\LCR meter_USB\obj\Debug\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\bin\Debug\ZedGraph.dll
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter program\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\ZedGraph.dll
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CopyComplete
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\bin\Debug\ZedGraph.dll
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csprojResolveAssemblyReference.cache
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.Cache
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\SiHo\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
+C:\Users\use\Desktop\LCR meter_LAN\LCR meter_USB\obj\Debug\LCR meter_USB.csprojAssemblyReference.cache
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\bin\Debug\LCR meter_USB.exe.config
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\bin\Debug\LCR meter_USB.exe
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\bin\Debug\LCR meter_USB.pdb
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\bin\Debug\ZedGraph.dll
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.csprojAssemblyReference.cache
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR_meter_USB.ATC_LCRMeter.resources
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR_meter_USB.Properties.Resources.resources
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.GenerateResource.cache
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CoreCompileInputs.cache
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.csproj.CopyComplete
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.exe
+C:\Users\SiHo Ryu\Desktop\LCR meter_LAN (2)\LCR meter_USB\obj\Debug\LCR meter_USB.pdb
